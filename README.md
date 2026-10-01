@@ -1,4 +1,4 @@
-#YF Meaning Finder, a New app to change finding files in hours into seconds!
+##YF Meaning Finder, a New app to change finding files in hours into seconds!
 
 ##  Hello, I am the Founder of a small company named YF. I am 10. I built YF Meaning finder.
 
@@ -10,7 +10,6 @@
 
 ### 3. it finds the files and gives to Gemini (google.genai). before giving to gemini, it uses regex and scrubadub to filter out private data like api keys, and numbers.
 
-### 4. Gemini (google.genai) will mark files as Yes or no like for example if the user said a text file with plan, gemini will look at the query and tell either Yes or No and i won't use sklearn because first thing we need a lots of data and then make it accurate, which makes it way more complex and might break past 268MB+ 
-. 
+### 4. Gemini (google.genai) will mark files as Yes or no like for example if the user said a text file with plan, gemini will look at the query and tell either Yes or No and i won't use sklearn because first thing we need a lots of data and then make it accurate, which makes it way more complex and might break past 268MB+. 
 
 ### 5. The app automatically opens the first 5 files in notepad automatically.
