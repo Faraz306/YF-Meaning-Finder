@@ -1,6 +1,5 @@
-##YF Meaning Finder, a New app to change finding files in hours into seconds!
 
-##  Hello, I am the Founder of a small company named YF. I am 10. I built YF Meaning finder.
+##  Hello, I am the Founder of a small company named YF. I am 10. I built YF Meaning Finder, a New app to change finding files in hours into seconds!
 
 ## Now, I am gonna tell you how I built this app:
 
